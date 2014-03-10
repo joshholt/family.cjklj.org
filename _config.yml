@@ -1,7 +1,7 @@
-title:            HMFAYSAL
-description:      "Omega: The Coolest Theme for Jekyll"
+title:            code.cjklj.org
+description:      "Our Adventures in Code"
 logo:             omikron.png
-disqus_shortname: hmfaysal
+disqus_shortname: codecjkljorg
 # Assign a default image for your site's header and footer
 default_bg:       default_bg.jpg
 search:           true
@@ -13,34 +13,34 @@ animated_fins:	  true
 # Specify the fin color in RGB value
 fin_color:        "255,255,255"
 # Change url to your domain. Leave localhost server or blank when working locally.
-url:              http://hmfaysal.github.io/hmfaysal-omega-theme
+url:              http://code.cjklj.org
 
 # Owner/author information
 owner:
-  name:           Hossain Mohd Faysal
-  avatar:         hmfaysal.jpg
-  email:          hmfaysal@alum.mit.edu
+  name:           Josh Holt
+  avatar:         joshholt.jpg
+  email:          joshholt@cjklj.org
   # Use the coder's toolbox at http://coderstoolbox.net/string/#!encoding=xml&action=encode&charset=us_ascii to encode your description into XML string
-  description:    Hossain Mohammad Faysal is an Electrical Engineer and a Mathematician based in Doha, Qatar. His interests are anything that&#8217;s related to math, from math itself to programming languages to music to physics to engineering to philosophy.
+  description:    Josh Holt is a Software Engineer based in Washington D.C., USA. His interests are anything that&#8217;s related to programming languages, to music to physics to engineering to philosophy and his wife and children.
   # Social networking links used in footer. Update and remove as you like.
   # To register at HMFAYSAL SOCIAL, visit http://social.hmfaysal.tk
-  twitter:        hmfaysal
-  facebook:       hmfaysal
-  github:         hmfaysal
-  stackexchange:  https://stackexchange.com/users/3402032/hossain-mohd-faysal
-  linkedin:       
-  instagram:      
-  flickr:         
-  tumblr:         
-  hmfaysalsocial: hmfaysal
+  twitter:        cjk2121
+  facebook:       holt.josh
+  github:         joshholt
+  stackexchange:
+  linkedin:       www.linkedin.com/pub/josh-holt/4/967/7b4/
+  instagram:
+  flickr:
+  tumblr:
+  hmfaysalsocial:
   # For Google Authorship https://plus.google.com/authorship
-  google_plus:    https://plus.google.com/u/0/102602916593522619858
+  google_plus:    https://plus.google.com/u/1/+JoshHolt21
 
 # Analytics and webmaster tools stuff goes here
 google_analytics:   UA-39365944-7
-google_verify:      
+google_verify:
 # https://ssl.bing.com/webmaster/configure/verify/ownership Option 2 content= goes here
-bing_verify:         
+bing_verify:
 
 # Links to include in footer navigation
 # For external links add external: true
@@ -77,7 +77,7 @@ kramdown:
   use_coderay: false
 
   coderay:
-    coderay_line_numbers: 
+    coderay_line_numbers:
     coderay_line_numbers_start: 1
     coderay_tab_width: 4
     coderay_bold_every: 10
