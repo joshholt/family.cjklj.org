@@ -18,7 +18,7 @@ url:              http://family.cjklj.org
 # Owner/author information
 owner:
   name:           The Holts
-  avatar:         joshholt.jpg
+  avatar:         holts.jpg
   email:          joshholt@cjklj.org
   # Use the coder's toolbox at http://coderstoolbox.net/string/#!encoding=xml&action=encode&charset=us_ascii to encode your description into XML string
   description:    The Holts are a fun loving group. Their interests are anything that&#8217;s related to music, hiking, camping, etc.
@@ -49,14 +49,14 @@ links:
     url: /
     external: false
     icon: home
-  - title: <i class="icon-book"></i> Documentation
-    url: /documentation
+  # - title: <i class="icon-book"></i> Documentation
+  #   url: /documentation
   - title: Categories
     url: /categories
   - title: Tags
     url: /tags
-  - title: Faysal who?
-    url: /hossain-mohd-faysal
+  # - title: Faysal who?
+  #   url: /hossain-mohd-faysal
 
 # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 timezone:    America/New_York
